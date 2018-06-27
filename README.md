@@ -26,18 +26,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='todo_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had some trouble understanding the Java syntax and what parameters were needed at times.
+I had some trouble understanding the Java syntax and what parameters were necessary.
 
 ## License
 
-    Copyright [2018] [name of copyright owner]
-
+    Copyright 2018 Facebook
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
